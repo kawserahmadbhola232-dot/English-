@@ -1,0 +1,7 @@
+{
+  "name": "Easy English Learning (সহজ ইংরেজি শিক্ষা)",
+  "description": "A comprehensive English learning platform designed for Bengali speakers, featuring structured courses, interactive quizzes, and AI-powered practice sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
